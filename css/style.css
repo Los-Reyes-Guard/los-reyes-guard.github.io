@@ -71,7 +71,7 @@ footer img{
 }
 #background{
 	background-image:url("../graphics/mainBanner.png");
-	background-attachment: fixed;
+	background-attachment: scroll;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top;
